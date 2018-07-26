@@ -18,7 +18,7 @@ def detect_text(path):
 
     image = vision.types.Image(content=content)
 
-    response = client.text_detection(image=image)
+    response = client.document_text_detection(image=image)
     texts = response.text_annotations
     #print(type(texts))
     #print(texts)
@@ -33,10 +33,12 @@ def detect_text(path):
         if s.find("1407C028[AA]") != -1:
             complete += 1
             completeStr = imgLine.description
+            completeStr.encode('ascii',errors='ignore')
             #print("FOUND COMPLETE: " + imgLine.description)
         elif s.find("1407C028") != -1:
             partial += 1
             partialStr = imgLine.description
+            partialStr.encode('ascii',errors='ignore')
             #print("FOUND PARTIAL: " + imgLine.description + " on " + path)
 
     #print("On " + os.path.basename(path) + "-> ", end='')
@@ -45,7 +47,8 @@ def detect_text(path):
     print("On " + path + "-> ", end='')
 
     if complete > 0:
-        print("FOUND COMPLETE: " + completeStr)
+        # Since there was a complete match no need to print out the entire string as it may contain endline chars
+        print("FOUND COMPLETE: " + "1407C028[AA]")
     elif partial > 0:
         print("FOUND PARTIAL: " + partialStr)
     else:
