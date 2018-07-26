@@ -23,15 +23,33 @@ def detect_text(path):
     #print(type(texts))
     #print(texts)
 
+    complete = 0
+    completeStr = ''
+    partial = 0
+    partialStr = ''
     for imgLine in texts:
         s = imgLine.description
         #print(imgLine.description)
         if s.find("1407C028[AA]") != -1:
-            print("FOUND COMPLETE: " + imgLine.description)
+            complete += 1
+            completeStr = imgLine.description
+            #print("FOUND COMPLETE: " + imgLine.description)
         elif s.find("1407C028") != -1:
-            print("FOUND PARTIAL: " + imgLine.description)
-        else:
-            print("Failure on " + path)
+            partial += 1
+            partialStr = imgLine.description
+            #print("FOUND PARTIAL: " + imgLine.description + " on " + path)
+
+    #print("On " + os.path.basename(path) + "-> ", end='')
+
+    path = path.replace('pics__andSSD', '')
+    print("On " + path + "-> ", end='')
+
+    if complete > 0:
+        print("FOUND COMPLETE: " + completeStr)
+    elif partial > 0:
+        print("FOUND PARTIAL: " + partialStr)
+    else:
+        print("FAILURE")
 
 
 # Instantiates a Vision client.
@@ -44,7 +62,7 @@ for root, dirs, files in os.walk('pics__andSSD'):
         if file.endswith(".jpg"):
              f = os.path.join(root, file)
              filePathList.append(f)
-             if i > 40:
+             if i > 400:
                  break
              else:
                  i += 1
