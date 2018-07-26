@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "involuted-shine-211318",
+  "private_key_id": "eabc03d002bdabaa9774ae845d34741da6727438",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDUy44lBZB+0zBo\nHAA0OreDhWbwc4T8hLZVhHRgCj5+iXYjuYWZNy1a6LxLTCgTfC7zAL/XJLU0TzA2\nY8kufdD9H2heVxOjg8lRzWNas2lnG+hX7Af6uIb60u2SHqFv3844YkrCxo1oqB9p\n8KNl+dodPHUY4MvRopA9VKZ2MU8W/lu9CqKPIi3oZr/y6Oj/WrERPQi/3BQLRN0A\nfCsNZQF3o8nR/ETeLYQ6rtktiMmOqEN7OJRs5VQgDqtD0dN33NrMxfcspsZGOx4S\nhBPrJcHU2I3IkkcUCKRsBXor1q0QzQIFwaG8fiHtOu+OsfhhLEujfQRj8gNoGNuA\nOXasWo0bAgMBAAECggEAVSPKkEJ9MVkzRXxqknspwLwn1y4JN/WrdGTmISUIIx3B\nwIJykz5x7a0v5VqnsEAgEscqepyrya2jZyeer3TUoOonmpNxfpt0eb/ZMEmXcxNF\n76O2/5hEHWg2eJ+7zOS5gHLHYc4KdyTJSNxorBz/KXJukZEjy5Ek7/0GC0UoVVSd\ntL0vA7fDPWzc5prl20G1MpgnqUytG789+xl330XyA2feYxvLOWvWm9toCVDllS6I\nsgX7I4Lm/ouEDB0zTEEjot35LNBuHqhonyby259SUfMLREWrcXPes7jtmFIe4Kel\nsX+tqxcxl66EwXnkmWtA9wanxSpRCn3C3CT1sM9uwQKBgQD74m7WwXLZIqps1P9t\npGqK0zrrrL4uApG3KSqqyBfBMyu6qfZVT638/17N1PuzN9voKxF6/0WhD6/XmbqE\nfos2FjTJHBuTeC5mfNxCHUCi73Pju1+Q1TWDwFVGj/Ix5TV++U4CvbieyGtOIq7Q\nP56ZKHRXJ5GX04Tj0eBTFG/rWwKBgQDYRZ8m79zEukDdHKySLLgxfHkmrpCG0P5i\nTgWl2deodF4IeosC/1zL0JGoUByW5HA+gcG4DWUE3lSFZfFqEk2RhOHZ3am2mrD0\n/37OH3kECRQHmivYruGTSELFJy3I14SHfodINt23wfl0raC8REConMTJc95bFTPL\nOKq/2OhRQQKBgBF15dcPO+XfaE75COfR0OzkrZ3usJRB61X2DZYfHr5uzKY45/GL\n/3SdQzYjgHsw8RaL/b83+NysWLUqW+qZVw8dxPT39NVpLFZAa4hNvNBOpwrvTzWc\nAgSrDX5BtjlNOUMfBxBblHO1UvLspo+bCWR2kHIGNSqAKCMexl0b+pInAoGAJtnS\n7k62jQycbFwjUBsCd7lRljZTtjRDDmvPreyFRjipT8KbyE0RYXe1QtQpXp3o4AG1\nSBf35rj92/zlMlXZY2PIorekLi55zXk8UVDsD2KGG5uBduprkWawv/P60JKOtzxu\nlvVsPP92jZRHRKrKJsAKxdmvvxL+++nRGqefjEECgYBhOSyY5D19TRCaQRnsLEZd\n+etSBMw7v6yjTb9OGhSo+wRDGRgP8T4tzj55PqEvyT+g02RnZka7yMkfaGst8f6x\ntl9Gh62c/xNCiGcoVtwY4GHouef/n9pyg1L8U4686s1P6Frq9sjiHOKhgMibywzm\nsZfLAhlHZ7yyBCrB05FwwA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pythonocr@involuted-shine-211318.iam.gserviceaccount.com",
+  "client_id": "116502248545367264619",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonocr%40involuted-shine-211318.iam.gserviceaccount.com"
+}
