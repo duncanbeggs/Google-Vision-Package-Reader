@@ -60,9 +60,14 @@ vision_client = google.cloud.vision.ImageAnnotatorClient()
 
 i = 0 #temp counter to prevent us from overloading google cloud with too many files
 filePathList = []
-for root, dirs, files in os.walk('pics__andSSD'):
+
+#####CHANGE BELOW: directory to point to top of image folder
+for root, dirs, files in os.walk('pics__andSSD\EOS1'):
     for file in files:
-        if file.endswith(".jpg"):
+
+        #Note that if the file has a period in it's center (e.g. 5.5ft_img2.jpg) it may get skipped if
+        #the below if state is not modified to accomodate files of that form
+        #if file.endswith(".jpg"):
              f = os.path.join(root, file)
              filePathList.append(f)
              if i > 400:
