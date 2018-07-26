@@ -1,0 +1,262 @@
+
+(base) C:\Users\dunca\Desktop\CanonGoogleVisionOCR_Test>py main.py
+On \__Axis1\img\100_7704_trim.jpg-> FAILURE
+On \__Axis1\img\105_8315_trim.jpg-> FAILURE
+On \__Axis1\img\110_0_trim.jpg-> FAILURE
+On \__Axis1\img\55_0_trim.jpg-> FOUND PARTIAL: 1407C028/AA]
+On \__Axis1\img\60_3277_trim.jpg-> FAILURE
+On \__Axis1\img\65_4211_trim.jpg-> FAILURE
+On \__Axis1\img\70_4718_trim.jpg-> FAILURE
+On \__Axis1\img\75_5238_trim.jpg-> FOUND PARTIAL: 1407C028
+On \__Axis1\img\80_5659_trim.jpg-> FAILURE
+On \__Axis1\img\85_6239_trim.jpg-> FAILURE
+On \__Axis1\img\90_6702_trim.jpg-> FAILURE
+On \__Axis1\img\95_7272_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8154_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8155_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8156_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8157_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8158_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8159_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8160_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8161_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8162_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8163_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8164_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8165_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8166_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8167_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8168_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8169_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8170_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8171_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8172_trim.jpg-> FAILURE
+On \__Axis20\100\img\100_8173_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8682_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8683_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8684_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8685_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8686_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8687_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8688_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8689_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8690_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8691_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8692_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8693_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8694_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8695_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8696_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8697_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8698_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8699_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8700_trim.jpg-> FAILURE
+On \__Axis20\105\img\105_8701_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_10_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_11_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_12_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_13_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_14_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_15_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_16_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_17_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_18_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_19_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_20_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_21_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_22_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_23_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_24_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_25_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_6_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_7_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_8_trim.jpg-> FAILURE
+On \__Axis20\110\img\110_9_trim.jpg-> FAILURE
+On \__Axis20\55\img\55_2063_trim.jpg-> FAILURE
+On \__Axis20\55\img\55_2064_trim.jpg-> FOUND PARTIAL: 1407C028(AA]
+On \__Axis20\55\img\55_2065_trim.jpg-> FOUND PARTIAL: 1407C028(AA
+On \__Axis20\55\img\55_2066_trim.jpg-> FOUND PARTIAL: 1407C028IAA]
+On \__Axis20\55\img\55_2067_trim.jpg-> FOUND PARTIAL: 1407C028(AA]
+On \__Axis20\55\img\55_2068_trim.jpg-> FOUND PARTIAL: 1407C028(AA
+On \__Axis20\55\img\55_2069_trim.jpg-> FAILURE
+On \__Axis20\55\img\55_2070_trim.jpg-> FOUND PARTIAL: 1407C028IAA]
+On \__Axis20\55\img\55_2071_trim.jpg-> FOUND PARTIAL: 1407C028(AA)
+On \__Axis20\55\img\55_2072_trim.jpg-> FOUND PARTIAL: 1407C028/AA)
+On \__Axis20\55\img\55_2073_trim.jpg-> FOUND PARTIAL: 1407C028(AA)
+On \__Axis20\55\img\55_2074_trim.jpg-> FAILURE
+On \__Axis20\55\img\55_2075_trim.jpg-> FOUND PARTIAL: 1407C028(AA
+On \__Axis20\55\img\55_2076_trim.jpg-> FAILURE
+On \__Axis20\55\img\55_2077_trim.jpg-> FOUND PARTIAL: 1407C028(AA)
+On \__Axis20\55\img\55_2078_trim.jpg-> FOUND PARTIAL: 1407C028(AA
+On \__Axis20\55\img\55_2079_trim.jpg-> FOUND PARTIAL: 1407C028(AA
+On \__Axis20\55\img\55_2080_trim.jpg-> FOUND PARTIAL: 1407C028(AA
+On \__Axis20\55\img\55_2081_trim.jpg-> FOUND PARTIAL: 1407C028(AA
+On \__Axis20\55\img\55_2082_trim.jpg-> FOUND PARTIAL: 1407C028IAA)
+On \__Axis20\60\img\60_3672_trim.jpg-> FOUND PARTIAL: 1407C028IAA)
+On \__Axis20\60\img\60_3673_trim.jpg-> FAILURE
+On \__Axis20\60\img\60_3674_trim.jpg-> FAILURE
+On \__Axis20\60\img\60_3675_trim.jpg-> FOUND PARTIAL: 1407C028/(AA
+On \__Axis20\60\img\60_3676_trim.jpg-> FOUND PARTIAL: 1407C028(AA)
+On \__Axis20\60\img\60_3677_trim.jpg-> FOUND PARTIAL: 1407C028(AA]
+On \__Axis20\60\img\60_3678_trim.jpg-> FOUND COMPLETE: 120
+mageRUNNER
+ADVANCE 4545
+IRADV 4545120V
+1407C028[AA]
+XVR01187
+
+On \__Axis20\60\img\60_3679_trim.jpg-> FOUND PARTIAL: 1407C028IAA)
+On \__Axis20\60\img\60_3680_trim.jpg-> FAILURE
+On \__Axis20\60\img\60_3681_trim.jpg-> FOUND PARTIAL: 1407C028(AA)
+On \__Axis20\60\img\60_3682_trim.jpg-> FOUND PARTIAL: 1407C028
+On \__Axis20\60\img\60_3683_trim.jpg-> FOUND PARTIAL: 1407C028IAA]
+On \__Axis20\60\img\60_3684_trim.jpg-> FOUND PARTIAL: 1407C028(AA)
+On \__Axis20\60\img\60_3685_trim.jpg-> FAILURE
+On \__Axis20\60\img\60_3686_trim.jpg-> FAILURE
+On \__Axis20\60\img\60_3687_trim.jpg-> FOUND PARTIAL: 1407C028(AA)
+On \__Axis20\60\img\60_3688_trim.jpg-> FOUND PARTIAL: 1407C028IAA)
+On \__Axis20\60\img\60_3689_trim.jpg-> FOUND PARTIAL: 1407C0281
+On \__Axis20\60\img\60_3690_trim.jpg-> FOUND PARTIAL: 1407C028IAA)
+On \__Axis20\60\img\60_3691_trim.jpg-> FOUND PARTIAL: 1407C028
+On \__Axis20\65\img\65_4512_trim.jpg-> FOUND PARTIAL: 1407C028IAA
+On \__Axis20\65\img\65_4513_trim.jpg-> FAILURE
+On \__Axis20\65\img\65_4514_trim.jpg-> FOUND PARTIAL: 1407C028|AA)
+On \__Axis20\65\img\65_4515_trim.jpg-> FAILURE
+On \__Axis20\65\img\65_4516_trim.jpg-> FOUND PARTIAL: 1407C0281AA)
+On \__Axis20\65\img\65_4517_trim.jpg-> FOUND PARTIAL: 1407C028
+On \__Axis20\65\img\65_4518_trim.jpg-> FAILURE
+On \__Axis20\65\img\65_4519_trim.jpg-> FOUND PARTIAL: 1407C028
+On \__Axis20\65\img\65_4520_trim.jpg-> FOUND PARTIAL: 1407C028(AA)
+On \__Axis20\65\img\65_4521_trim.jpg-> FAILURE
+On \__Axis20\65\img\65_4522_trim.jpg-> FAILURE
+On \__Axis20\65\img\65_4523_trim.jpg-> FAILURE
+On \__Axis20\65\img\65_4524_trim.jpg-> FOUND PARTIAL: 1407C028(AA]
+On \__Axis20\65\img\65_4525_trim.jpg-> FOUND PARTIAL: 1407C028/AA]
+On \__Axis20\65\img\65_4526_trim.jpg-> FAILURE
+On \__Axis20\65\img\65_4527_trim.jpg-> FOUND PARTIAL: 1407C028
+On \__Axis20\65\img\65_4528_trim.jpg-> FAILURE
+On \__Axis20\65\img\65_4529_trim.jpg-> FAILURE
+On \__Axis20\65\img\65_4530_trim.jpg-> FAILURE
+On \__Axis20\65\img\65_4531_trim.jpg-> FAILURE
+On \__Axis20\70\img\70_4980_trim.jpg-> FAILURE
+On \__Axis20\70\img\70_4981_trim.jpg-> FAILURE
+On \__Axis20\70\img\70_4982_trim.jpg-> FAILURE
+On \__Axis20\70\img\70_4983_trim.jpg-> FOUND PARTIAL: 1407C028AA]
+On \__Axis20\70\img\70_4984_trim.jpg-> FAILURE
+On \__Axis20\70\img\70_4985_trim.jpg-> FOUND PARTIAL: 1407C028(AA]
+On \__Axis20\70\img\70_4986_trim.jpg-> FAILURE
+On \__Axis20\70\img\70_4987_trim.jpg-> FOUND PARTIAL: 1407C028IAA]
+On \__Axis20\70\img\70_4988_trim.jpg-> FOUND PARTIAL: 1407C028(AA]
+On \__Axis20\70\img\70_4989_trim.jpg-> FAILURE
+On \__Axis20\70\img\70_4990_trim.jpg-> FOUND PARTIAL: 1407C028
+On \__Axis20\70\img\70_4991_trim.jpg-> FOUND PARTIAL: 1407C0281
+On \__Axis20\70\img\70_4992_trim.jpg-> FAILURE
+On \__Axis20\70\img\70_4993_trim.jpg-> FOUND PARTIAL: 1407C0281AA
+On \__Axis20\70\img\70_4994_trim.jpg-> FAILURE
+On \__Axis20\70\img\70_4995_trim.jpg-> FAILURE
+On \__Axis20\70\img\70_4996_trim.jpg-> FOUND PARTIAL: 1407C028AA)
+On \__Axis20\70\img\70_4997_trim.jpg-> FAILURE
+On \__Axis20\70\img\70_4998_trim.jpg-> FOUND PARTIAL: 1407C028I4A)
+On \__Axis20\70\img\70_4999_trim.jpg-> FOUND PARTIAL: 1407C028AA
+On \__Axis20\75\img\75_5382_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5383_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5384_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5385_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5386_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5387_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5388_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5389_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5390_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5391_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5392_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5393_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5394_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5395_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5396_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5397_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5398_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5399_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5400_trim.jpg-> FAILURE
+On \__Axis20\75\img\75_5401_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5964_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5965_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5966_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5967_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5968_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5969_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5970_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5971_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5972_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5973_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5974_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5975_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5976_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5977_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5978_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5979_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5980_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5981_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5982_trim.jpg-> FAILURE
+On \__Axis20\80\img\80_5983_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6420_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6421_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6422_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6423_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6424_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6425_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6426_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6427_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6428_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6429_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6430_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6431_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6432_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6433_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6434_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6435_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6436_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6437_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6438_trim.jpg-> FAILURE
+On \__Axis20\85\img\85_6439_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6978_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6979_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6980_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6981_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6982_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6983_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6984_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6985_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6986_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6987_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6988_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6989_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6990_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6991_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6992_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6993_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6994_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6995_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6996_trim.jpg-> FAILURE
+On \__Axis20\90\img\90_6997_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7464_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7465_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7466_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7467_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7468_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7469_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7470_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7471_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7472_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7473_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7474_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7475_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7476_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7477_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7478_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7479_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7480_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7481_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7482_trim.jpg-> FAILURE
+On \__Axis20\95\img\95_7483_trim.jpg-> FAILURE
+
+(base) C:\Users\dunca\Desktop\CanonGoogleVisionOCR_Test>
